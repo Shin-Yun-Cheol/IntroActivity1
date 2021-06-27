@@ -1,0 +1,2 @@
+rootProject.name = "IntroActivity1"
+include ':app'
